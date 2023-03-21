@@ -1,0 +1,13 @@
+__pycache__
+
+output
+venv
+build
+dist
+
+.idea
+.vscode
+
+session.json
+config.json
+main.spec
